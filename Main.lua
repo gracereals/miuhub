@@ -1,5 +1,3 @@
-if game.PlaceId == 2753915549, 4442272183, 7449423635 then
-
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/gracereals/miuhub/refs/heads/main/source.lua'))()
 
 local Window = Rayfield:CreateWindow({
