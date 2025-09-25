@@ -1,15 +1,3 @@
---[[
-
-	Rayfield Interface Suite
-	by Sirius
-
-	shlex  | Designing + Programming
-	iRay   | Programming
-	Max    | Programming
-	Damian | Programming
-
-]]
-
 if debugX then
 	warn('Initialising Rayfield')
 end
@@ -3996,4 +3984,5 @@ task.delay(4, function()
 end)
 
 return RayfieldLibrary
+
 
